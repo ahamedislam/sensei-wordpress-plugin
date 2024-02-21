@@ -39,7 +39,7 @@
     "@wordpress/html-entities": "wp-5.9",
     "@wordpress/i18n": "wp-5.9",
     "@wordpress/icons": "wp-5.9",
-    "@wordpress/keycodes": "wp-5.9",
+    "@wordpress/keycodes": "3.50.0",
     "@wordpress/plugins": "wp-5.9",
     "@wordpress/token-list": "wp-5.9",
     "@wordpress/url": "wp-5.9",
